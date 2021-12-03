@@ -1,0 +1,13 @@
+* {
+    margin: none;
+    padding: none;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+body {
+    background-image: url(./img/backgroun.jpg);
+    background-repeat: no-repeat;
+    background-position: center center fixed;
+    background-size: cover;
+}
+
