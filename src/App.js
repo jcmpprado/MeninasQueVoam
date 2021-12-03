@@ -1,7 +1,13 @@
+import Nav from "./componetes/nav/nav";
+import NavBar from "./componetes/navBar/navBar";
 
 function App() {
   return (
-    <h1> Olá mundo!</h1>
+    <>
+    <NavBar />
+    <Nav />
+  
+    </>
   );
 }
 
